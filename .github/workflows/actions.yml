@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Sample Demo
+name: trying to deploy to ations
 
 # Controls when the workflow will run
 on:
