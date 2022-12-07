@@ -5,7 +5,8 @@ on:
     
 jobs:
   job1:
-    runs-on: [self-hosted, linux, X64, research]
+    
+    runs-on: ubuntu-latest
 
     steps:  
       - name: configure github repo
